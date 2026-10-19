@@ -9,7 +9,7 @@
     "themes": "node build-heartland-pdf.js --list-themes"
   },
   "dependencies": {
-    "puppeteer": "^24.37.2"
+    "puppeteer": "^24.43.1"
   }
 }
 
