@@ -30,10 +30,10 @@ Markers: `- [ ]` open, `- [-]` claimed by a run in progress, `- [x]` done, `- [!
 
 ## 🚦 Public release
 
-- [ ] small README recipe counts match the folders (it says 6 breakfast and ~90 in all; the folders hold 8 and 88), checked by counting `Recipes/*/*.md` outside `Updates/`
-- [ ] small README "Special Sections" lists the sections that exist in `special-sections/`: five it names (Potluck Hall of Fame, Church Basement Classics, State Fair Spectacular, Farm-to-Table Stories, Seasonal Harvest Calendar) have no file
-- [ ] small Build leftovers untracked and ignored: `print/build-script-pandoc/.tmp/`, `build/`, `temp/` and `missfont.log`, with a `.gitignore` that keeps them out (`git ls-files print/build-script-pandoc` lists only sources)
-- [ ] small `versions/BUILD-STATUS.md` brought up to date or moved out of the way: it still says 46 recipes and is dated 2025-02-05
+- [ ] `small` README recipe counts match the folders (it says 6 breakfast and ~90 in all; the folders hold 8 and 88), checked by counting `Recipes/*/*.md` outside `Updates/`
+- [ ] `small` README "Special Sections" lists the sections that exist in `special-sections/`: five it names (Potluck Hall of Fame, Church Basement Classics, State Fair Spectacular, Farm-to-Table Stories, Seasonal Harvest Calendar) have no file
+- [ ] `small` Build leftovers untracked and ignored: `print/build-script-pandoc/.tmp/`, `build/`, `temp/` and `missfont.log`, with a `.gitignore` that keeps them out (`git ls-files print/build-script-pandoc` lists only sources)
+- [ ] `small` `versions/BUILD-STATUS.md` brought up to date or moved out of the way: it still says 46 recipes and is dated 2025-02-05
 - [ ] The PDF builds from a clean clone by following `print/BUILD-VERSIONS.md` (`npm install`, then `node build-book-v5.js`), and the README says how
 - [ ] Image rights recorded: every file in `Images/` and `Cover/` is marked AI-generated or has its source and licence written down; `BUILD-STATUS.md` says six photos were "sourced from web" 🔒 Needs Mike
 - [ ] Licence chosen for the recipes, text and images, and `LICENSE` added 🔒 Needs Mike
