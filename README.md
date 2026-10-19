@@ -75,4 +75,6 @@ With ~90 recipes organized by category and enriched with cultural stories, regio
 
 🟡 **In Progress** — Initial recipes and structure committed. More content coming.
 
+What's left before the book counts as properly released is in the [roadmap](docs/ROADMAP.md); what has changed is in the [changelog](docs/CHANGELOG.md).
+
 *Built collaboratively on the [AX Platform](https://paxai.app) Flavor Atlas workspace.*
